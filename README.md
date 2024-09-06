@@ -26,7 +26,7 @@ Harvester is a PHP-based CLI tool that fetches website content, including HTML, 
 3. Run the script:
 
     ```bash
-    php harvester.php
+    php harvest.php
     ```
 
 ## Usage
